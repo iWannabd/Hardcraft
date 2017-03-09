@@ -1,0 +1,14 @@
+{
+  "name": "HardCraft_proto",
+  "authors": [
+    "Isa Setiawan Abdurrazaq <azaqokay@gmail.com>"
+  ],
+  "description": "purwarupa hardcraft untuk acara 1000startup digital ihiy",
+  "main": "/index.html",
+  "keywords": [
+    "craft"
+  ],
+  "license": "MIT",
+  "homepage": "https://hardcraft-67aed.firebaseapp.com/",
+  "private": true
+}
